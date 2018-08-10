@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="layouts">
+        <item>usQwerty</item>
+        <item>usQwertz</item>
+        <item>czQwerty</item>
+        <item>czQwertz</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="layout_menu">
+        <item>US - QWERTY</item>
+        <item>US - QWERTZ</item>
+        <item>CZ - QWERTY</item>
+        <item>CZ - QWERTZ</item>
+    </string-array>
+</resources>
